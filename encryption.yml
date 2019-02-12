@@ -1,0 +1,4 @@
+spring: 
+   datasource: 
+        username: yxbj
+        password: '{cipher}38a4e2aa366414afbcd43210db1311a1e461b4afddbc2223715d9782733b2ade'
